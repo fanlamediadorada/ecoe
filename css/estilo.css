@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+background-color: #000202;
+}
+
+p {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color: #348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:10px;
+text-align:center;
+}
+
+#container {
+	width:100%;
+	height:auto;
+	max-width:900px;
+	margin: 10px auto;
+	text-align:center;
+}
+
+article {
+	width:auto;
+	height:auto;
+	margin: 2px auto;
+	padding: 2px;
+}
+
+header {
+width:auto;
+height:auto;
+margin: 2px auto;
+padding: 2px;
+}
+
+img {
+background-color: #000;
+width:100%;
+height:auto;
+max-width: 800px;
+margin:0;
+padding:0;
+}
+
+section {
+width: 100%;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+}
+
+
+footer {
+	width:auto;
+	height:auto;
+	margin: 2px auto;
+	padding: 2px;
+}
+
+h1 {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color: #348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:24px;
+}
+
+h2 {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color: #348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:18px;
+}
+
+h3 {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color: #348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:14px;
+}
+
+.clear {
+width:100%;
+height:5px;
+margin: 5px auto;
+clear:both;
+}
+
+a {
+
+color:#348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:18px;
+text-decoration:none;
+}
+
+a:hover {
+color:#68fdff;
+font-family:Verdana, Geneva, sans-serif;
+font-size:18px;
+text-decoration:none;
+}
+
+footer a {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color:#348384;
+font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+text-decoration:none;
+}
+
+footer a:hover {
+width: auto;
+height: auto;
+margin: 5px auto;
+padding: 5px;
+color:#68fdff;
+font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+text-decoration:none;
+}
+
+
+
+@media all and (max-width: 1200px) {
+  
+ 
+}

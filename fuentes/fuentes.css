@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'quar';
+    src: url('quar-webfont.woff2') format('woff2'),
+         url('quar-webfont.woff') format('woff'),
+		 url('fuentes/original_Quar.eot?#iefix') format('embedded-opentype'), 
+         url('original_Quar.woff') format('woff'),
+         url('original_Quar.ttf') format('truetype'),
+         url('original_Quar.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'magnolia';
+    src: url('magnolia-webfont.woff2') format('woff2'),
+         url('magnolia-webfont.woff') format('woff'),
+    url('original_Magnolia.eot?#iefix') format('embedded-opentype'), 
+         url('original_Magnolia.woff') format('woff'),
+         url('original_Magnolia.ttf') format('truetype'),
+         url('original_Magnolia.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+
